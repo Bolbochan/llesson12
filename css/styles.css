@@ -1,0 +1,81 @@
+.body{
+    background-image: url(/images/Group\ 1.png);
+    font-family: 'Raleway', sans-serif;
+    width: 1500px;
+    height: 866px;
+}
+.headstop{
+    text-align: center;
+    padding-top: 80px;
+}
+.cahee{
+    border: none;
+}
+.cahee-list{
+    list-style-type: none;
+    padding-top: 70px;
+    padding-left: 165px;
+}
+.cahee-list_li{
+    padding-bottom: 15px;
+}
+input{
+    background-color: #00C4C4;
+    opacity: 0.5;
+    height: 50px;
+    width: 500px;
+    border: none;
+}
+.cahee-list_li_two{
+    height: 250px;
+    width: 500px;
+}
+.headstop_cahee{
+    display: flex;
+}
+.headstop_one{
+font-size: 90px;
+font-weight: 700;
+}
+.headstop_two{
+font-size: 17px;
+}
+li :hover{
+    opacity: 1;
+    border-left: solid #355B82 5px ;
+}
+.contact{
+position: absolute;
+top: 275px;
+left: 835px;
+width: 499px;
+height: 189px;
+text-align: left;
+}
+.contact_one{
+font-size: 17px;
+font-weight: 800;
+padding-bottom: 10px;
+}
+.contact_two{
+font-size: 20px;
+font-weight: 300;
+padding-top: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #262626;
+    align-items: center;
+    height: 90px;
+    margin-top: 35px;
+    color: #B9B9B9;
+}
+.footer_two{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+
+}
+.footer_three_span{
+    color: #FF2B58;
+}
